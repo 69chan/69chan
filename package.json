@@ -1,0 +1,15 @@
+{
+  "name": "69chan",
+  "version": "1.0.0",
+  "description": "A fantastic little image host",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "image",
+    "host"
+  ],
+  "author": "69chan <35830140+69chan@users.noreply.github.com>",
+  "license": "ISC"
+}
